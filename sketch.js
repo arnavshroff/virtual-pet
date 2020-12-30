@@ -8,9 +8,9 @@ var food,foodImage,foodStock,foodRef;
 function preload()
 {
   //load images here
-  rabbitImage = loadImage("images/rabbit.png");
-  rabbitImage2 = loadImage("images/rabbit2.png");
-  foodImage = loadImage("images/carrot.png");
+  rabbitImage = loadImage("rabbit.png");
+  rabbitImage2 = loadImage("rabbit2.png");
+  foodImage = loadImage("carrot.png");
 }
 
 function setup() {
